@@ -1,7 +1,5 @@
 #### Hi, my name is Oğuzhan
 #### I am a computer science student at Bilkent University
-#### I am learning Java
-#### I like computer games and mathematics
 <!--
 **oguzhangenc33/oguzhangenc33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
