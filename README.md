@@ -1,8 +1,14 @@
 ##### Welcome to Oğuzhan's Github account
 ##### CS Student at Bilkent University (Junior)
 ##### How to reach me: [gnc.oguzhan.33@gmail.com](gnc.oguzhan.33@gmail.com)
+
 <!--
 **oguzhangenc33/oguzhangenc33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://github.com/oguzhangenc33/">
+  <img src="https://github-readme-603.vercel.app/api?username=oguzhangenc33&include_all_commits=true&count_private=true&show_icons=true&theme=dark&border_radius=12" height="160" alt="oguzhangenc33's GitHub stats"/>
+  <img src="https://github-readme-603.vercel.app/api/top-langs/?username=oguzhangenc33&layout=compact&theme=dark&langs_count=8&border_radius=12" height="160" alt="Top Langs"/>
+</a>
 
 Here are some ideas to get you started:
 
