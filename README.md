@@ -1,5 +1,5 @@
-#### Hi, my name is Oğuzhan
-#### I am a computer science student at Bilkent University
+#### Welcome to Oğuzhan's Github account
+#### CS Student at Bilkent University (Junior)
 <!--
 **oguzhangenc33/oguzhangenc33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
