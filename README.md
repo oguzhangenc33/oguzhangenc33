@@ -1,5 +1,6 @@
-#### Welcome to Oğuzhan's Github account
-#### CS Student at Bilkent University (Junior)
+##### Welcome to Oğuzhan's Github account
+##### CS Student at Bilkent University (Junior)
+##### How to reach me: [gnc.oguzhan.33@gmail.com](gnc.oguzhan.33@gmail.com)
 <!--
 **oguzhangenc33/oguzhangenc33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
