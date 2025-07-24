@@ -1,5 +1,5 @@
 ##### Welcome to Oğuzhan's Github account
-##### CS Student at Bilkent University (Junior)
+##### CS Student at Bilkent University (Senior)
 ##### How to reach me: [gnc.oguzhan.33@gmail.com](gnc.oguzhan.33@gmail.com)
 
 <!--
